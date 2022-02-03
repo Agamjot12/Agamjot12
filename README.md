@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on front-end development 
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on web-dev project
-- 🤔 I’m looking for help with making a website
-- 💬 Ask me about badminton 🏸
-- 📫 How to reach me: 
+- 🤔 I’m looking for help with competitive coding 
+<!-- - 💬 Ask me about badminton 🏸 -->
+- 📫 How to reach me: agamjot1204@gmail.com
 - 😄 Pronouns: he/him
 
 ### Tech Stack:
