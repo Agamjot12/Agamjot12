@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on web-dev project
 - 🤔 I’m looking for help with competitive coding 
-<!-- - 💬 Ask me about badminton 🏸 -->
 - 📫 How to reach me: agamjot1204@gmail.com
 - 😄 Pronouns: he/him
-
+<!-- - 💬 Ask me about badminton 🏸 -->
 ### Tech Stack:
 
 
