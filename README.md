@@ -1,7 +1,7 @@
 ### Hi I'm Agam! 👋
 
 - 🔭 I’m currently working on front-end development 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on web-dev project
 - 🤔 I’m looking for help with competitive coding 
 - 📫 How to reach me: agamjot1204@gmail.com
