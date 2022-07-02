@@ -1,10 +1,10 @@
 ### Hi I'm Agam! 👋
 
-- 🔭 I’m currently working on front-end development 
+- 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Data Structures and Algorithms 
-- 👯 I’m looking to collaborate on web-dev project
+- 👯 I’m looking to collaborate on ML projects 
 - 🤔 I’m looking for help with competitive coding 
-- 📫 How to reach me: agamjot1204@gmail.com
+- 📫 How to reach me: agamjotworks@gmail.com
 - 😄 Pronouns: he/him
 <!-- - 💬 Ask me about badminton 🏸 -->
 ### Tech Stack:
