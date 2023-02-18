@@ -1,9 +1,7 @@
 ### Hi I'm Agam! 👋
 
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m looking to collaborate on ML and Data Science projects
 - 🌱 I’m currently learning Data Structures and Algorithms 
-- 👯 I’m looking to collaborate on ML projects 
-- 🤔 I’m looking for help with competitive coding 
 - 📫 How to reach me: agamjotworks@gmail.com
 - 😄 Pronouns: he/him
 <!-- - 💬 Ask me about badminton 🏸 -->
