@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Agamjot Singh</h1>
+<h1 align="center">Hi , I'm Agamjot Singh</h1>
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**
 
 - 📫 How to reach me **agamjotworks@gmail.com**
+
 - 😄 Pronouns : he/him
 
 <h3 align="left">Connect with me:</h3>
