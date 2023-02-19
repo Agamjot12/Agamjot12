@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Agamjot Singh</h1>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **agamjotworks@gmail.com**
 
