@@ -1,5 +1,7 @@
 <h1 align="center">Hi , I'm Agamjot Singh</h1>
 
+![](https://komarev.com/ghpvc/?username=Agamjot12&label=PROFILE+VIEWS)
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**
  
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**
