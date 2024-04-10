@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **agamjotworks@gmail.com**
 
-- 🌎 Website: [agamjot12.github.io](https://agamjot12.github.io{:target="_blank"})
+- 🌎 Website: [agamjot12.github.io](https://agamjot12.github.io)
 
 - 😄 Pronouns : he/him
 
