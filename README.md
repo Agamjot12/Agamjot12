@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Agamjot12&label=PROFILE+VIEWS)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently working as a **Software Developer**
  
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**
+- 👯 I’m looking to collaborate on **Machine Learning and GenAI** projects
 
 - 📫 How to reach me **agamjotworks@gmail.com**
 
