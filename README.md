@@ -11,6 +11,8 @@
 - 🌎 Website: [agamjot12.github.io](https://agamjot12.github.io)
 
 - 😄 Pronouns : he/him
+
+<!--
 <h3 align="left">Connect with me</h3>
 
 <p>
@@ -43,3 +45,4 @@
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>&nbsp;
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 </p>
+-->
